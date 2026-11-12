@@ -50,15 +50,17 @@ Exercises are organized by week, with each folder containing individual programm
 ```text
 java-backend-learning/
 │
-├── week-01/
-│   ├── exercise-01/
-│   └── exercise-02/
+├── week1/
+│   ├── description
+│   ├── SampleNameEx1/
+│   └── SampleNameEx2/
 │
-├── week-02/
-│   ├── exercise-03/
-│   ├── exercise-04/
+├── week2/
+│   ├── description
+│   ├── SampleNameEx3/
+│   ├── SampleNameEx4/
 │
-├── week-03/
+├── week3/
 │   └── ...
 │
 ├── .gitignore
