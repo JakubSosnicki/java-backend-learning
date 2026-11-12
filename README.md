@@ -55,9 +55,8 @@ java-backend-learning/
 │   └── exercise-02/
 │
 ├── week-02/
-│   ├── exercise-01/
-│   ├── exercise-02-reservation-system/
-│   └── exercise-03/
+│   ├── exercise-03/
+│   ├── exercise-04/
 │
 ├── week-03/
 │   └── ...
